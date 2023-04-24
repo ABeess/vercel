@@ -9,7 +9,7 @@ export class AppController {
   getHello() {
     return {
       status: 200,
-      message: 'Deploy to vercel',
+      message: 'Deploy to vercel by nestjs',
     };
   }
 }
